@@ -1,1 +1,6 @@
+folder1
 rubish.txt
+
+~.rprog
+*.dat
+!data1.dat
